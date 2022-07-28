@@ -3,3 +3,4 @@
 - Karimov Abdullatif
 - Diyorbek Jumanov
 - Azizbek Qozoqov
+- Majidov Diyorbek
